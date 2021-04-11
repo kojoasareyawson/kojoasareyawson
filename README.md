@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile apps development
 - 🌱 I’m currently learning fluter
 - 💞️ I’m looking to collaborate on with people on flutter and wordpress projects
-- 📫 How to reach me francisasareyawson@gmail.com
+- 📫 How to reach me francisasareyawson@gmail.com / Whatsapp/Call line : 0249691353
 
 <!---
 kojoasareyawson/kojoasareyawson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
